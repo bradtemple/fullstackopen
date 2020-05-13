@@ -1,4 +1,6 @@
 /node_modules
 /part1/node_modules
 /part1/courseinfo/node_modules
+/part1/unicafe/node_modules
+/part1/anecdotes/node_modules
 *.DS_Store
